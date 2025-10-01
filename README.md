@@ -3,7 +3,7 @@
 💻 **Analista de Suporte & Desenvolvedor em formação**  
 Apaixonado por tecnologia, soluções criativas e melhoria contínua.  
 Tenho experiência em **manutenção de infraestrutura de TI, suporte a usuários, redes e servidores Windows/Linux**.  
-Atualmente estou me aprofundando em **Python (Flask) e Frontend** para desenvolvimento de sistemas e automações.  
+Atualmente estou me aprofundando em **  Frontend** para desenvolvimento de sistemas e automações.  
 
 ---
 
