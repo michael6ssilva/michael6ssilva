@@ -33,7 +33,7 @@ Atualmente estou me aprofundando em **  Frontend** para desenvolvimento de siste
 
 ## 📫 Onde me encontrar
 - 💼 [LinkedIn](www.linkedin.com/in/michael6ssilva-ti)  
-- 📧 **michael6ssilvagmail.com**  
+- 📧 **michael6ssilva@gmail.com**  
 
 ---
 ⭐ Sempre em busca de aprender, compartilhar conhecimento e criar soluções que fazem a diferença!  
